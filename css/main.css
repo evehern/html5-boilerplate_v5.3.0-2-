@@ -246,12 +246,14 @@ img {
 
 
 .gridimage{
+    border-color: white;
+    border-size:1em;
     position: relative;
-    width: 35%;
+    width: 25%;
     float: right;
     background-color: hsla(0,100%, 100%, 0.75)
-    bottom: 35%
-    border-box: 1px;
+    bottom: 25%
+   
 }
 
 .gridimage h3{
